@@ -2,4 +2,5 @@
 </script>
 
 <template>
+  简历中···
 </template>
